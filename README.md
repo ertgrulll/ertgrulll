@@ -1,6 +1,6 @@
 ![Header](./header.png)
 
-<a href="mailto:ertgrulll@outlook.com" target="_blank"><img height="35" src="https://cdn-icons-png.flaticon.com/512/552/552486.png"></a>&nbsp;&nbsp;&nbsp; <a href="https://www.linkedin.com/in/ertu%C4%9Frul-yak%C4%B1n/" target="_blank"><img height="35" src="https://cdn-icons.flaticon.com/png/512/3536/premium/3536505.png?token=exp=1654918468~hmac=5a86cb4bef75f0ce5849bc9b7a32d077"></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<a href="mailto:ertgrulll@outlook.com" target="_blank"><img height="35" src="https://cdn-icons-png.flaticon.com/512/552/552486.png"></a>&nbsp;&nbsp;&nbsp; <a href="https://www.linkedin.com/in/ertu%C4%9Frul-yak%C4%B1n/" target="_blank"><img height="35" src="https://cdn1.iconfinder.com/data/icons/logotypes/32/square-linkedin-256.png"></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 ### About me
 
