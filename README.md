@@ -48,7 +48,7 @@ Sunday                   36 commits          ⬛⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 🕑︎ Time Zone: Europe/Istanbul
 
 💬 Programming Languages: 
-No Activity Tracked This Week
+Dart                     2 mins              ⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛   100.00 % 
 ```
 
 **I Mostly Code in Dart** 
